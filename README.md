@@ -11,4 +11,4 @@ Section III : Diffraction
 Fresnel and Fraunhofer diffraction. Fresnel diffraction at a straight edge. Fraunhofer diffraction due to a Single slit,
 Diffraction grating . Resolving power of a grating.
 Section IV : Polarization
-Transverse nature of light waves. Double Refraction, Plane, circular and elliptically polarized light
+Transverse nature of light waves. Double Refraction, Plane, circular and elliptically polarized light.
